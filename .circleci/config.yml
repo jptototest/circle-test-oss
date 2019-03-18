@@ -11,4 +11,6 @@ jobs:
       - run:
           name: Print the Current Time
           command: date
-          
+      - run:
+          name: Another Greeting
+          command: echo this is another greeting
