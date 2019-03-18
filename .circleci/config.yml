@@ -16,4 +16,4 @@ jobs:
           command: echo this is another greeting
       - run:
           name: Third gretting
-          command: this is yet another greeting
+          command: this is yet another bad santa greeting
